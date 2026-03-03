@@ -1,0 +1,6 @@
+../Core/Src/cv2.c:12:6:LED_init	4	static
+../Core/Src/cv2.c:25:6:LED_ON	4	static
+../Core/Src/cv2.c:33:6:LED_OFF	4	static
+../Core/Src/cv2.c:41:6:BTN_init	4	static
+../Core/Src/cv2.c:48:14:BTN_read	16	static
+../Core/Src/cv2.c:60:6:BTN_function	16	static
