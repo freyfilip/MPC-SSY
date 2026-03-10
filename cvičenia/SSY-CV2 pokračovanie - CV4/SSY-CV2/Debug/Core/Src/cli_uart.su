@@ -1,0 +1,10 @@
+../Core/Src/cli_uart.c:39:13:CLI_Send	16	static
+../Core/Src/cli_uart.c:45:6:CLI_Print	16	static
+../Core/Src/cli_uart.c:50:6:CLI_Printf	144	static
+../Core/Src/cli_uart.c:64:13:RX_Put	24	static
+../Core/Src/cli_uart.c:74:12:RX_Get	16	static
+../Core/Src/cli_uart.c:86:6:CLI_UART_Init	8	static
+../Core/Src/cli_uart.c:101:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/cli_uart.c:114:13:CLI_ShowHelp	8	static
+../Core/Src/cli_uart.c:130:13:CLI_HandleLine	32	static
+../Core/Src/cli_uart.c:201:6:CLI_UART_Process	16	static

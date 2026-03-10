@@ -1,0 +1,7 @@
+../Core/Src/cv2.c:12:6:LED_init	1
+../Core/Src/cv2.c:25:6:LED_ON	1
+../Core/Src/cv2.c:33:6:TOGGLE_LED	1
+../Core/Src/cv2.c:37:6:LED_OFF	1
+../Core/Src/cv2.c:45:6:BTN_init	1
+../Core/Src/cv2.c:52:14:BTN_read	2
+../Core/Src/cv2.c:64:6:BTN_function	2

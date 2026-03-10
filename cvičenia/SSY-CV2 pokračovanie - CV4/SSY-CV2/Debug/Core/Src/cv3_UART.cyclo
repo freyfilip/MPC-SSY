@@ -1,0 +1,4 @@
+../Core/Src/cv3_UART.c:16:6:cv3_init	1
+../Core/Src/cv3_UART.c:20:6:cv3_polling	1
+../Core/Src/cv3_UART.c:26:6:UART_StartRxIT	1
+../Core/Src/cv3_UART.c:31:6:transmit_receive	1
