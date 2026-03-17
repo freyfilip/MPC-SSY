@@ -1,0 +1,5 @@
+../Core/Src/cv3_UART.c:16:6:cv3_init	8	static
+../Core/Src/cv3_UART.c:20:6:cv3_polling	8	static
+../Core/Src/cv3_UART.c:26:6:UART_StartRxIT	8	static
+../Core/Src/cv3_UART.c:31:6:transmit_receive	8	static
+../Core/Src/cv3_UART.c:36:6:UART_PrintNumber	40	static
