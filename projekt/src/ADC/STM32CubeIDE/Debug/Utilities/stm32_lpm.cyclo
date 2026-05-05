@@ -1,0 +1,5 @@
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Utilities/lpm/tiny_lpm/stm32_lpm.c:241:6:UTIL_LPM_Init	2
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Utilities/lpm/tiny_lpm/stm32_lpm.c:270:6:UTIL_LPM_DeInit	1
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Utilities/lpm/tiny_lpm/stm32_lpm.c:286:6:UTIL_LPM_SetMaxMode	12
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Utilities/lpm/tiny_lpm/stm32_lpm.c:314:9:UTIL_LPM_GetMaxMode	4
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Utilities/lpm/tiny_lpm/stm32_lpm.c:345:6:UTIL_LPM_Enter	18

@@ -1,0 +1,5 @@
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/System/Interfaces/stm32_lpm_if.c:856:6:LPM_IdleMode	0	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/System/Interfaces/stm32_lpm_if.c:727:23:PWR_EnterSleepMode	8	static,ignoring_inline_asm
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/System/Interfaces/stm32_lpm_if.c:746:23:PWR_ExitSleepMode	0	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/System/Interfaces/stm32_lpm_if.c:863:6:LPM_SleepMode	8	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/System/Interfaces/stm32_lpm_if.c:759:10:is_boot_from_standby	8	static,ignoring_inline_asm

@@ -1,0 +1,15 @@
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_dma.c:239:19:HAL_DMA_Init	16	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_dma.c:335:19:HAL_DMA_DeInit	24	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_dma.c:468:19:HAL_DMA_Start	24	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_dma.c:523:19:HAL_DMA_Start_IT	24	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_dma.c:595:19:HAL_DMA_Abort	16	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_dma.c:687:19:HAL_DMA_Abort_IT	0	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_dma.c:723:19:HAL_DMA_PollForTransfer	32	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_dma.c:895:6:HAL_DMA_IRQHandler	8	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_dma.c:1131:19:HAL_DMA_RegisterCallback	0	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_dma.c:1210:19:HAL_DMA_UnRegisterCallback	0	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_dma.c:1318:22:HAL_DMA_GetState	0	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_dma.c:1330:10:HAL_DMA_GetError	0	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_dma.c:1374:19:HAL_DMA_ConfigChannelAttributes	16	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_dma.c:1462:19:HAL_DMA_GetConfigChannelAttributes	16	static
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_dma.c:1540:19:HAL_DMA_GetLockChannelAttributes	0	static

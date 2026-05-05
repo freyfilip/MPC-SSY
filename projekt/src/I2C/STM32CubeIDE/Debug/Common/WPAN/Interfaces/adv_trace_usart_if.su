@@ -1,0 +1,6 @@
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/adv_trace_usart_if.c:69:25:UART_Init	4	static
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/adv_trace_usart_if.c:158:13:UsartIf_TxCpltCallback	0	static
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/adv_trace_usart_if.c:81:25:UART_DeInit	8	static
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/adv_trace_usart_if.c:98:25:UART_StartRx	16	static
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/adv_trace_usart_if.c:167:13:UsartIf_RxCpltCallback	8	static
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/adv_trace_usart_if.c:115:25:UART_TransmitDMA	16	static

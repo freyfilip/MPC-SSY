@@ -1,0 +1,5 @@
+D:/240233/Zigbee_TempMeas_Server_Router/Utilities/lpm/tiny_lpm/stm32_lpm.c:241:6:UTIL_LPM_Init	8	static
+D:/240233/Zigbee_TempMeas_Server_Router/Utilities/lpm/tiny_lpm/stm32_lpm.c:270:6:UTIL_LPM_DeInit	0	static
+D:/240233/Zigbee_TempMeas_Server_Router/Utilities/lpm/tiny_lpm/stm32_lpm.c:286:6:UTIL_LPM_SetMaxMode	4	static,ignoring_inline_asm
+D:/240233/Zigbee_TempMeas_Server_Router/Utilities/lpm/tiny_lpm/stm32_lpm.c:314:9:UTIL_LPM_GetMaxMode	0	static,ignoring_inline_asm
+D:/240233/Zigbee_TempMeas_Server_Router/Utilities/lpm/tiny_lpm/stm32_lpm.c:345:6:UTIL_LPM_Enter	8	static,ignoring_inline_asm

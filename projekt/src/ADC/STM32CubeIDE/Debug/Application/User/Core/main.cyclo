@@ -1,0 +1,10 @@
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Core/Src/main.c:137:6:SystemClock_Config	5
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Core/Src/main.c:205:6:PeriphCommonClock_Config	2
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Core/Src/main.c:327:6:MX_ICACHE_Init	1
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Core/Src/main.c:357:6:MX_RAMCFG_Init	3
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Core/Src/main.c:390:6:MX_RTC_Init	5
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Core/Src/main.c:460:6:MX_USART1_UART_Init	5
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Core/Src/main.c:508:6:MX_GPIO_Init	1
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Core/Src/main.c:76:5:main	3
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Core/Src/main.c:532:6:Error_Handler	1
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/Core/Src/main.c:550:6:assert_failed	1

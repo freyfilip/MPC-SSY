@@ -1,0 +1,26 @@
+
+# Loads default set of integrations. Do not remove.
+default_config:
+
+# Load frontend themes from the themes folder
+frontend:
+  themes: !include_dir_merge_named themes
+
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
+mqtt:
+  sensor:
+    - name: "Sound"
+      unique_id: "soundlevel"
+      state_topic: "zigbee2mqtt/vlhkost"
+      unit_of_measurement: "dB"
+      value_template: "{{ value_json.temperature }}"
+      icon: "mdi:volume-high"  
+      
+    - name: "Moisture"
+      unique_id: "moisturelevel"
+      state_topic: "zigbee2mqtt/vlhkost"
+      unit_of_measurement: "%"
+      value_template: "{{ value_json.pressure_19 | int / 10 }}"
+      icon: "mdi:water-percent"  

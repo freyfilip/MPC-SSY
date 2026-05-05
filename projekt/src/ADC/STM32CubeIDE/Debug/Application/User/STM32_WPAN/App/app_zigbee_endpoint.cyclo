@@ -1,0 +1,11 @@
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/STM32_WPAN/App/app_zigbee_endpoint.c:313:13:APP_ZIGBEE_TimerUpdateCallback	1
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/STM32_WPAN/App/app_zigbee_endpoint.c:338:13:APP_ZIGBEE_TempMeasAttributeUpdate	9
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/STM32_WPAN/App/app_zigbee_endpoint.c:146:6:APP_ZIGBEE_ApplicationInit	1
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/STM32_WPAN/App/app_zigbee_endpoint.c:168:6:APP_ZIGBEE_ApplicationStart	1
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/STM32_WPAN/App/app_zigbee_endpoint.c:190:6:APP_ZIGBEE_ConfigEndpoints	3
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/STM32_WPAN/App/app_zigbee_endpoint.c:239:6:APP_ZIGBEE_ConfigGroupAddr	1
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/STM32_WPAN/App/app_zigbee_endpoint.c:253:6:APP_ZIGBEE_GetStartupConfig	2
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/STM32_WPAN/App/app_zigbee_endpoint.c:271:6:APP_ZIGBEE_SetNewDevice	1
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/STM32_WPAN/App/app_zigbee_endpoint.c:276:6:APP_ZIGBEE_PrintApplicationInfo	1
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/STM32_WPAN/App/app_zigbee_endpoint.c:303:6:APP_BSP_Button1Action	1
+D:/241161/dnes3/Zigbee_TempMeas_Server_Router/STM32_WPAN/App/app_zigbee_endpoint.c:308:6:APP_BSP_Button2Action	1

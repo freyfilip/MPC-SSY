@@ -1,0 +1,16 @@
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:527:13:APP_BSP_Button1Action	1
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:545:13:APP_BSP_Button3Action	1
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:536:13:APP_BSP_Button2Action	1
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:1773:13:Button_TriggerActions	6
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:372:6:APP_BSP_PostIdle	1
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:413:6:APP_BSP_StandbyExit	1
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:499:9:APP_BSP_ButtonIsLongPressed	2
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:517:6:APP_BSP_SetButtonIsLongPressed	1
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:656:6:APP_BSP_LedInit	1
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:1608:6:APP_BSP_ButtonInit	2
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:331:6:APP_BSP_Init	1
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:1800:6:BSP_PB_Callback	1
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:1806:6:HAL_PWR_WKUP2_Callback	1
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:1823:6:HAL_PWR_WKUP3_Callback	1
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:1840:6:HAL_PWR_WKUP5_Callback	1
+D:/240233/Zigbee_TempMeas_Server_Router/Projects/Common/WPAN/Interfaces/app_bsp.c:1875:9:APP_BSP_SerialCmdExecute	19

@@ -1,0 +1,5 @@
+D:/240233/Zigbee_TempMeas_Server_Router/System/Interfaces/stm32_lpm_if.c:856:6:LPM_IdleMode	1
+D:/240233/Zigbee_TempMeas_Server_Router/System/Interfaces/stm32_lpm_if.c:727:23:PWR_EnterSleepMode	1
+D:/240233/Zigbee_TempMeas_Server_Router/System/Interfaces/stm32_lpm_if.c:746:23:PWR_ExitSleepMode	1
+D:/240233/Zigbee_TempMeas_Server_Router/System/Interfaces/stm32_lpm_if.c:863:6:LPM_SleepMode	1
+D:/240233/Zigbee_TempMeas_Server_Router/System/Interfaces/stm32_lpm_if.c:759:10:is_boot_from_standby	3

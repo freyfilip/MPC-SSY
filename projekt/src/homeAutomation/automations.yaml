@@ -1,0 +1,38 @@
+- id: '1776323469256'
+  alias: Automacion1
+  description: ''
+  triggers:
+  - trigger: numeric_state
+    entity_id:
+    - sensor.temperature_temperature
+    above: 26
+  conditions: []
+  actions:
+  - action: switch.turn_on
+    metadata: {}
+    target:
+      entity_id:
+      - switch.zas_551_1
+    data: {}
+  - action: notify.persistent_notification
+    metadata: {}
+    data:
+      title: Je strasne teplo
+      message: Aktualna teplota prekrocial limit 25 stupnov
+  mode: single
+- id: '1776325280146'
+  alias: Automacion2
+  description: ''
+  triggers:
+  - trigger: numeric_state
+    entity_id:
+    - sensor.teplomer_test_temperature
+    below: 25
+  conditions: []
+  actions:
+  - action: switch.turn_off
+    metadata: {}
+    target:
+      entity_id: switch.zas_551_1
+    data: {}
+  mode: single

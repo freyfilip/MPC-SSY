@@ -1,0 +1,5 @@
+D:/240233/Zigbee_TempMeas_Server_Router/STM32_WPAN/Target/ll_sys_if.c:81:6:ll_sys_bg_process_init	1
+D:/240233/Zigbee_TempMeas_Server_Router/STM32_WPAN/Target/ll_sys_if.c:92:6:ll_sys_schedule_bg_process	1
+D:/240233/Zigbee_TempMeas_Server_Router/STM32_WPAN/Target/ll_sys_if.c:102:6:ll_sys_schedule_bg_process_isr	1
+D:/240233/Zigbee_TempMeas_Server_Router/STM32_WPAN/Target/ll_sys_if.c:112:6:ll_sys_config_params	4
+D:/240233/Zigbee_TempMeas_Server_Router/STM32_WPAN/Target/ll_sys_if.c:166:6:ll_sys_set_rtl_polling_time	1

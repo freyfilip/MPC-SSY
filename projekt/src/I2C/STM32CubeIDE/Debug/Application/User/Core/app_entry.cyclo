@@ -1,0 +1,12 @@
+D:/240233/Zigbee_TempMeas_Server_Router/Core/Src/app_entry.c:125:6:MX_APPE_Config	2
+D:/240233/Zigbee_TempMeas_Server_Router/Core/Src/app_entry.c:134:6:MX_APPE_LinkLayerInit	1
+D:/240233/Zigbee_TempMeas_Server_Router/Core/Src/app_entry.c:144:10:MX_APPE_Init	1
+D:/240233/Zigbee_TempMeas_Server_Router/Core/Src/app_entry.c:180:6:MX_APPE_Process	1
+D:/240233/Zigbee_TempMeas_Server_Router/Core/Src/app_entry.c:368:6:UTIL_SEQ_Idle	1
+D:/240233/Zigbee_TempMeas_Server_Router/Core/Src/app_entry.c:383:6:UTIL_SEQ_PreIdle	1
+D:/240233/Zigbee_TempMeas_Server_Router/Core/Src/app_entry.c:426:6:UTIL_SEQ_PostIdle	1
+D:/240233/Zigbee_TempMeas_Server_Router/Core/Src/app_entry.c:444:6:HWCB_RNG_Process	1
+D:/240233/Zigbee_TempMeas_Server_Router/Core/Src/app_entry.c:478:6:UTIL_ADV_TRACE_PreSendHook	1
+D:/240233/Zigbee_TempMeas_Server_Router/Core/Src/app_entry.c:489:6:UTIL_ADV_TRACE_PostSendHook	1
+D:/240233/Zigbee_TempMeas_Server_Router/Core/Src/app_entry.c:507:6:Serial_CMD_Interpreter_CmdExecute	1
+D:/240233/Zigbee_TempMeas_Server_Router/Core/Src/app_entry.c:522:13:__aeabi_assert	0
